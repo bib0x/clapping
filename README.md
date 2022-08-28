@@ -25,3 +25,7 @@ clapping on master [?] is 📦 v0.1.0 via 🦀 v1.60.0 via ❄️  impure (nix-s
 boat    -h      --help  help    room
 
 ```
+
+## Resources
+
+- https://docs.rs/clap_complete/latest/clap_complete/generator/fn.generate_to.html#examples
