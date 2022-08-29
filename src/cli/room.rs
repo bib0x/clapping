@@ -6,7 +6,7 @@ pub fn build_room_commands() -> Command<'static> {
             Command::new("ls")
                 .about("List rooms from a boat")
                 .arg(
-                    Arg::new("Room's name").long("name").short('n')
+                    Arg::new("name").long("name").short('n').help("Room's name")
                 )
         )
 }
